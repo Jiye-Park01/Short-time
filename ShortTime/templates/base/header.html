@@ -1,0 +1,22 @@
+<!-- ======= Header ======= -->
+<header class="fixed-top header-transparent" id="header">
+    <div class="container d-flex align-items-center justify-content-between">
+
+        <div class="logo">
+            <h1><a href="{{ url_for('index') }}">It's short time</a></h1>
+            <!-- Uncomment below if you prefer to use an image logo -->
+            <!-- <img src="{{ url_for('static', filename='single_pages/assets/img/nav_logo.gif') }}" width="300" height="150" alt="사진 오류"> -->
+            <!-- <a href="{{ url_for('index') }}"><img src="{{ url_for('static', filename='assets/img/logo.png') }}" alt="" class="img-fluid"></a> -->
+        </div>
+
+        <nav class="navbar" id="navbar">
+            <ul>
+                <!-- <li><a class="nav-link scrollto active" href="https://www.duksung.ac.kr/main.do">Duksung Homepage</a></li> -->
+                <li><a class="nav-link scrollto" href="{{ url_for('index') }}">Home</a></li>
+                <li><a class="nav-link scrollto" href="{{ url_for('about') }}">About</a></li>
+            </ul>
+            <i class="bi bi-list mobile-nav-toggle"></i>
+        </nav><!-- .navbar -->
+
+    </div>
+</header><!-- End Header -->

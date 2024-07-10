@@ -1,0 +1,546 @@
+[33mcommit 6697ca79c1741456094b7cd3f59c4ab3e6ab68d5[m[33m ([m[1;36mHEAD -> [m[1;32mmin[m[33m)[m
+Merge: c440089 cb3672a
+Author: sunflwwer <ghosti007@naver.com>
+Date:   Sun Jul 7 14:16:29 2024 +0900
+
+    머지
+
+[33mcommit c440089d0350273b853731258fa6574deb7c77d7[m
+Author: sunflwwer <ghosti007@naver.com>
+Date:   Sun Jul 7 14:08:01 2024 +0900
+
+    웹페이지 다운로드까지 연결
+
+[33mcommit 105a0d296896b6ef3140a9fd80ada1c4cd58170f[m
+Author: sunflwwer <ghosti007@naver.com>
+Date:   Sun Jul 7 12:47:59 2024 +0900
+
+    모델, 웹페이지 연결중
+
+[33mcommit cb3672af6f5d0612d04e8f528bbf129695070ab9[m[33m ([m[1;31morigin/min[m[33m)[m
+Author: sunflwwer <ghosti007@naver.com>
+Date:   Sun Jul 7 11:17:18 2024 +0900
+
+    웹페이지 안올라간것 추가
+
+[33mcommit b5acf40bbc1d9287dd72efae14e0976e07c1d4db[m
+Author: sunflwwer <ghosti007@naver.com>
+Date:   Sat Jul 6 18:08:17 2024 +0900
+
+    웹페이지 수정
+
+[33mcommit df25bcda8fb6a697045b32defc5946c1aeeda648[m[33m ([m[1;31morigin/yunseo[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: yooni1231 <138295473+yooni1231@users.noreply.github.com>
+Date:   Sat Jul 6 01:23:14 2024 +0900
+
+    crop frames
+
+[33mcommit 134e6df44e1858ab9fa6c4fe40194012ba9c66f3[m
+Author: yooni1231 <138295473+yooni1231@users.noreply.github.com>
+Date:   Fri Jul 5 23:43:37 2024 +0900
+
+    yunseo
+
+[33mcommit 67e2855a732a9006193b8e59553241b49d797839[m[33m ([m[1;31morigin/kyb[m[33m)[m
+Author: 20210699 <20210699@duksung.ac.kr>
+Date:   Fri Jul 5 08:15:40 2024 +0900
+
+    🐛 [Fix] save final video
+
+[33mcommit 49cc046e1602f2de9bb0daa8c4bc543f2d204f75[m
+Author: 20210699 <20210699@duksung.ac.kr>
+Date:   Fri Jul 5 08:06:06 2024 +0900
+
+    ✏️ [Fix] fix video.py
+
+[33mcommit d7ce894f5900a2c2c661ac9267e19c211b037254[m
+Author: 20210699 <20210699@duksung.ac.kr>
+Date:   Fri Jul 5 06:05:41 2024 +0900
+
+    🐛 [Fix] def clip_video
+    
+    todo fix(crop_frame, frames_to_video, create_final_video)
+
+[33mcommit 371c881b640dc121678174da9e57d8d8758ef383[m
+Author: 20210699 <20210699@duksung.ac.kr>
+Date:   Thu Jul 4 22:52:00 2024 +0900
+
+    ✨ [Feat] print p_boxes
+
+[33mcommit 51771b6431495749e1a755b298bd4a0ef5b80beb[m
+Author: 20210699 <20210699@duksung.ac.kr>
+Date:   Thu Jul 4 21:40:35 2024 +0900
+
+    🔥 [Remove] Remove venv
+    
+    add gitignore
+
+[33mcommit a02d0426fed2e8756d6a76c0198f6dce1a7daad3[m
+Author: 20210699 <20210699@duksung.ac.kr>
+Date:   Thu Jul 4 21:38:10 2024 +0900
+
+    ✨ [Feat] print FrameNum, ID, Box
+    
+    ID 당 박스 좌표 출력
+
+[33mcommit e33216db26118ee73bd3da738481156a4e116978[m
+Merge: c3e5e8d 5bf8586
+Author: 20210699 <20210699@duksung.ac.kr>
+Date:   Thu Jul 4 00:51:23 2024 +0900
+
+    🔀 [Merge]
+
+[33mcommit c3e5e8dc11d25e907f29121e8e8b4dc1aa75f085[m
+Author: 20210699 <20210699@duksung.ac.kr>
+Date:   Thu Jul 4 00:35:59 2024 +0900
+
+    💡 [Comment] app.py requirements.txt
+    
+    save befor merge
+
+[33mcommit 5bf8586c92cb61900f3874e48505ec838f455ba6[m
+Author: yooni1231 <138295473+yooni1231@users.noreply.github.com>
+Date:   Wed Jul 3 18:10:30 2024 +0900
+
+    [Commene] save before merge
+
+[33mcommit d16923223a8d46a150e8302276564782c79ae2c2[m
+Author: yooni1231 <138295473+yooni1231@users.noreply.github.com>
+Date:   Mon Jul 1 14:50:42 2024 +0900
+
+    boxmot
+
+[33mcommit a1227857df59e30263d94c3b5cb08f3e189553d4[m
+Author: 20210699 <20210699@duksung.ac.kr>
+Date:   Wed Jul 3 13:43:35 2024 +0900
+
+    💡 [Add] gitignore
+    
+    gitignore osnet_x0_25_msmt17.pt
+
+[33mcommit dd79e1e8cd509d7146e5a6477b3d129f993a62c6[m
+Author: 20210699 <20210699@duksung.ac.kr>
+Date:   Wed Jul 3 04:15:52 2024 +0900
+
+    [Feat] install ffmpeg
+
+[33mcommit 3655ea38cbf9dff01262a33b16bbe66c3fa33fe1[m
+Author: 20210699 <20210699@duksung.ac.kr>
+Date:   Wed Jul 3 04:05:33 2024 +0900
+
+    [Remove] uploads, results dir
+
+[33mcommit cbc91167dfd5cdfa1ec9b7f00963986a11b5dfaf[m
+Author: 20210699 <20210699@duksung.ac.kr>
+Date:   Wed Jul 3 04:03:39 2024 +0900
+
+    [Comment] Delete comment
+
+[33mcommit f5fe87cb2fb7234f55305afbefc0e32dfb4bf7e6[m
+Author: 20210699 <20210699@duksung.ac.kr>
+Date:   Wed Jul 3 03:50:41 2024 +0900
+
+    [Fix] result  video
+
+[33mcommit 9d8caabf4543a84658da81982dcca3f7aea31de8[m
+Author: yooni1231 <138295473+yooni1231@users.noreply.github.com>
+Date:   Mon Jul 1 15:09:51 2024 +0900
+
+    Add files via upload
+
+[33mcommit ae6f17a9b3277b60ffb24526e56fa5ed7f232dd1[m
+Author: yooni1231 <138295473+yooni1231@users.noreply.github.com>
+Date:   Mon Jul 1 14:57:28 2024 +0900
+
+    Add files via upload
+
+[33mcommit 731d557e2e23d6ce969ad06698af2a7a04226727[m
+Merge: dccde97 d45de84
+Author: Mike <yolov5.deepsort.pytorch@gmail.com>
+Date:   Tue Jun 25 10:24:29 2024 +0200
+
+    Merge pull request #1500 from mikel-brostrom/dependabot/update-dependencies
+    
+    Update dependencies
+
+[33mcommit d45de84dbd7e53d43f679a7e19ac0b37f28b5066[m
+Author: mikel-brostrom <yolov5.deepsort.pytorch@gmail.com>
+Date:   Mon Jun 24 20:13:57 2024 +0000
+
+    Update dependencies
+
+[33mcommit dccde97ddc37f051089767517915eeb721740cd3[m
+Merge: bd03653 b4162df
+Author: Mike <yolov5.deepsort.pytorch@gmail.com>
+Date:   Fri Jun 21 22:59:31 2024 +0200
+
+    Merge pull request #1494 from mikel-brostrom/xysr-kf
+    
+    implemented xysr filter
+
+[33mcommit b4162df2233cf5f2f5823a47a2c92860e80b592f[m
+Author: Mikel Broström <mikel.brostrom@cevt.se>
+Date:   Fri Jun 21 19:04:15 2024 +0200
+
+    use xyxy2xysr ops
+
+[33mcommit ed92e46646f5400450cb00839b5e06edd2609473[m
+Author: Mikel Broström <mikel.brostrom@cevt.se>
+Date:   Fri Jun 21 18:25:46 2024 +0200
+
+    remove possibility of using other kf than xysr
+
+[33mcommit b4b670841a0a7e8fca95f6f2581c74e06ce73030[m
+Author: Mikel Broström <mikel.brostrom@cevt.se>
+Date:   Fri Jun 21 18:16:25 2024 +0200
+
+    delete xywh kf option
+
+[33mcommit 5de7a4b438b47da38ccb0a5f91092e6a5675aa31[m
+Author: Mikel Broström <mikel.brostrom@cevt.se>
+Date:   Fri Jun 21 11:30:47 2024 +0200
+
+    implemented xysr filter
+
+[33mcommit 4e06a869cc549ff327f4047d93f83da58ea4342a[m
+Author: Mikel Broström <mikel.brostrom@cevt.se>
+Date:   Fri Jun 21 11:26:21 2024 +0200
+
+    implemented xysr filter
+
+[33mcommit bd0365336fb47390e842cd4020a006aefc83e903[m
+Merge: 71b56c9 2375bdf
+Author: Mike <yolov5.deepsort.pytorch@gmail.com>
+Date:   Fri Jun 21 00:21:05 2024 +0200
+
+    Merge pull request #1493 from mikel-brostrom/xyah-xywh-kf-refactor
+    
+    bytetrack, strongsort and botsort kf refactor
+
+[33mcommit 2375bdfeb317180b0cbab76aaf95e413d070142e[m
+Author: Mikel Broström <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 20 12:54:03 2024 +0200
+
+    adapt code convention names
+
+[33mcommit 49e7938b282e925c8e1486dd15014a2bb7144e9e[m
+Author: Mikel Broström <mikel.brostrom@cevt.se>
+Date:   Fri Jun 21 00:15:59 2024 +0200
+
+    bytetrack, strongsort and botsort kf refactor
+
+[33mcommit 71b56c92542141d65d3bf976c49fe471e404f8ff[m
+Merge: 8544f9b a0d79c9
+Author: Mike <yolov5.deepsort.pytorch@gmail.com>
+Date:   Fri Jun 21 00:13:54 2024 +0200
+
+    Merge pull request #1492 from mikel-brostrom/revert-1486-unify-xys-kfs
+    
+    Revert "unify xys kfs"
+
+[33mcommit a0d79c9530d03ef7f2f24ced60e8a6bfa80eefaa[m
+Author: Mike <yolov5.deepsort.pytorch@gmail.com>
+Date:   Fri Jun 21 00:13:40 2024 +0200
+
+    Revert "unify xys kfs"
+
+[33mcommit 8544f9b9fb1a23d983beb94bef4494b572b8a156[m
+Merge: eb54152 90374dc
+Author: Mike <yolov5.deepsort.pytorch@gmail.com>
+Date:   Fri Jun 21 00:13:28 2024 +0200
+
+    Merge pull request #1491 from mikel-brostrom/revert-1487-kf-type-hints
+    
+    Revert "added type hints"
+
+[33mcommit 90374dc2380b6d69002f0e951578c87302074896[m
+Author: Mike <yolov5.deepsort.pytorch@gmail.com>
+Date:   Fri Jun 21 00:13:01 2024 +0200
+
+    Revert "added type hints"
+
+[33mcommit eb541525d07c889f8688897219915886facd83f6[m
+Merge: 864a3cb 43f80ab
+Author: Mike <yolov5.deepsort.pytorch@gmail.com>
+Date:   Fri Jun 21 00:12:48 2024 +0200
+
+    Merge pull request #1490 from mikel-brostrom/revert-1488-fix-kf-name
+    
+    Revert "xys now xysr kf"
+
+[33mcommit 43f80ab0a5443189bf1db976820e982d069e6547[m
+Author: Mike <yolov5.deepsort.pytorch@gmail.com>
+Date:   Fri Jun 21 00:10:01 2024 +0200
+
+    Revert "xys now xysr kf"
+
+[33mcommit 864a3cb81ee31730a2ffeb88f4fc7378c5491b73[m
+Author: mikel-brostrom <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 20 13:18:10 2024 +0000
+
+    Bumping version from 10.0.73 to 10.0.74
+
+[33mcommit dde696d4fdc30639e84e60e986261a51311ee771[m
+Merge: 9863bd2 f959fb5
+Author: Mike <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 20 15:15:45 2024 +0200
+
+    Merge pull request #1488 from mikel-brostrom/fix-kf-name
+    
+    xys now xysr kf
+
+[33mcommit f959fb5597ee6b4afaf2f5b6902c55129599414a[m
+Author: Mikel Broström <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 20 15:11:50 2024 +0200
+
+    added comments
+
+[33mcommit 14ee9205a285e861571e276d1d3cf9233f5fd8a7[m
+Author: Mikel Broström <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 20 15:04:10 2024 +0200
+
+    xys now xysr kf
+
+[33mcommit b9285ffbb5d9c118962c753f820aee62c338b9a8[m
+Author: Mikel Broström <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 20 14:55:22 2024 +0200
+
+    xys now xysr kf
+
+[33mcommit ba068ba12545b1ab04dcf69046663fd3f9a36fc6[m
+Author: Mikel Broström <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 20 14:53:26 2024 +0200
+
+    xys now xysr kf
+
+[33mcommit 9863bd23e7a73a6608a90bdc90a75fd178e9d5d6[m
+Merge: 5a63037 9f517f5
+Author: Mike <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 20 14:35:11 2024 +0200
+
+    Merge pull request #1487 from mikel-brostrom/kf-type-hints
+    
+    added type hints
+
+[33mcommit 9f517f5f83cbb437bfc65752e1ae289adaeba6db[m
+Author: Mikel Broström <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 20 14:21:37 2024 +0200
+
+    fix bytetrack slow KF bug
+
+[33mcommit 13d2bad0da7f1ec4b6590741c962b9d78f3a4581[m
+Author: Mikel Broström <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 20 13:05:22 2024 +0200
+
+    _get_multi_process_noise_std notImplemented
+
+[33mcommit 08e9817628e4bd0e2755374728d5b43f5a033ada[m
+Author: Mikel Broström <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 20 13:03:10 2024 +0200
+
+    _get_multi_process_noise_std notImplemented
+
+[33mcommit c1e32ed1a188e46134a851c6630f17d01c6b7705[m
+Author: Mikel Broström <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 20 12:58:36 2024 +0200
+
+    import tuple
+
+[33mcommit 38c6a794707ecbdcd5eef2a9c8d781c8c5324b15[m
+Author: Mikel Broström <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 20 12:56:35 2024 +0200
+
+    import np
+
+[33mcommit faa9e469f2b18340eb826d83a69e787355431548[m
+Author: Mikel Broström <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 20 12:54:03 2024 +0200
+
+    adapt code convention names
+
+[33mcommit 4ba468c891e7dc7ddbc131ec4b075a96869d4e14[m
+Author: Mikel Broström <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 20 12:53:23 2024 +0200
+
+    import base kf
+
+[33mcommit 1dffb764f8db3e481df2ebaeb3e8a340d61643d5[m
+Author: Mikel Broström <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 20 12:48:14 2024 +0200
+
+    base kf implemented
+
+[33mcommit ff0782d33a1904445d3016d86c200aa84a1770cd[m
+Author: Mikel Broström <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 20 12:06:59 2024 +0200
+
+    added type hints
+
+[33mcommit 5a630372d637ef7cbb405aab62f57b8f7d5d0773[m
+Merge: 6629a76 792d750
+Author: Mike <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 20 10:34:40 2024 +0200
+
+    Merge pull request #1486 from mikel-brostrom/unify-xys-kfs
+    
+    unify xys kfs
+
+[33mcommit 792d750b4a304000d3f1a9cf06de000a5e786061[m
+Author: Mikel Broström <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 20 10:19:23 2024 +0200
+
+    add affine correction
+
+[33mcommit a8f002d2c60f16c9d148657b3807983bb7a855fa[m
+Author: Mikel Broström <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 20 10:14:11 2024 +0200
+
+    fix xys kf import
+
+[33mcommit 643fccd9113e33275d45041111b2580e0f55ba48[m
+Author: Mikel Broström <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 20 10:03:57 2024 +0200
+
+    unify xys kfs
+
+[33mcommit 6629a7624cdc50df09d14fabdf49bf1ae0c3da16[m
+Merge: 2cf88df c1a4842
+Author: Mike <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 20 09:51:30 2024 +0200
+
+    Merge pull request #1485 from mikel-brostrom/unify-wywh-kfs
+    
+    clean up xyah and xywh kfs
+
+[33mcommit c1a4842ac6f5232ad94a47da441e088ea4f6182c[m
+Author: Mikel Broström <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 20 09:12:10 2024 +0200
+
+    clean up xyah and xywh kfs
+
+[33mcommit 27cdbbae2d2c990fff73acfe929f997f7180da64[m
+Author: Mikel Broström <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 20 08:37:37 2024 +0200
+
+    clean up xyah and xywh kfs
+
+[33mcommit 2cf88df087afce890e3f65c7b6b36dfbe71d10e8[m
+Author: Mike <yolov5.deepsort.pytorch@gmail.com>
+Date:   Wed Jun 19 23:14:50 2024 +0200
+
+    Update publish.yml
+
+[33mcommit 72c00a7447959c4df38d33568eac3e11d4544851[m
+Author: Mike <yolov5.deepsort.pytorch@gmail.com>
+Date:   Wed Jun 19 23:13:53 2024 +0200
+
+    Update citation pkg version on publish
+
+[33mcommit 0f9038095dc3d7c348ce35d06285f44b3efdb4a4[m
+Author: Mike <yolov5.deepsort.pytorch@gmail.com>
+Date:   Wed Jun 19 23:08:28 2024 +0200
+
+    Update CITATION.cff
+
+[33mcommit ff60a582e391402292a76e1e6834054fdfc9b6eb[m
+Author: Mikel Broström <yolov5.deepsort.pytorch@gmail.com>
+Date:   Fri Jun 14 09:53:45 2024 +0200
+
+    auto-delete dependency update branch when merged
+
+[33mcommit 7f25d8f8bbfd13c0b8b09d845b462b3ea4819094[m
+Merge: 5ec0c3a de37d60
+Author: Mikel Broström <yolov5.deepsort.pytorch@gmail.com>
+Date:   Fri Jun 14 08:12:50 2024 +0200
+
+    Merge branch 'master' of https://github.com/mikel-brostrom/yolo_tracking
+
+[33mcommit 5ec0c3a4d5f0e30cd440f38be15c022233c71b02[m
+Author: Mikel Broström <yolov5.deepsort.pytorch@gmail.com>
+Date:   Fri Jun 14 08:12:31 2024 +0200
+
+    fix bug when branch exists
+
+[33mcommit de37d60287170e44bbc5a768b69bef726a9c5304[m
+Merge: bbe2405 527c37b
+Author: Mike <yolov5.deepsort.pytorch@gmail.com>
+Date:   Fri Jun 14 08:06:06 2024 +0200
+
+    Merge pull request #1482 from mikel-brostrom/dependabot/update-dependencies
+    
+    Update dependencies
+
+[33mcommit 527c37bc8651a05dc824f4652a4477486fcf5815[m
+Author: mikel-brostrom <yolov5.deepsort.pytorch@gmail.com>
+Date:   Fri Jun 14 05:59:52 2024 +0000
+
+    Update dependencies
+
+[33mcommit bbe2405c0a645003d265ba0ce172f042ea7b000f[m
+Author: mikel-brostrom <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 13 17:41:54 2024 +0000
+
+    Bumping version from 10.0.72 to 10.0.73
+
+[33mcommit c50a1305d1986fdba47e805cbf04a92b4624e252[m
+Merge: b857c94 2b89051
+Author: Mike <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 13 19:38:31 2024 +0200
+
+    Merge pull request #1481 from mikel-brostrom/fix-max_age-lt-max_obs-bug
+    
+    ensure max_age always < max_obs
+
+[33mcommit 2b890518050a809ca0f3467dab889acef953b716[m
+Author: Mikel Broström <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 13 19:35:31 2024 +0200
+
+    fix test
+
+[33mcommit 17af6aa40cad827f5aa13507d5ac8d884c28519a[m
+Author: Mikel Broström <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 13 19:29:57 2024 +0200
+
+    fix test
+
+[33mcommit 9c274be99652de50330b1f02c6642db5f58e3a19[m
+Author: Mikel Broström <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 13 18:03:43 2024 +0200
+
+    fix test
+
+[33mcommit 6f97a7b7661b8605063c17deb6161fa7d55aa87a[m
+Author: Mikel Broström <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 13 18:00:31 2024 +0200
+
+    fix test
+
+[33mcommit ee5fc74c92579eb2486a227a6524cf11b9398db9[m
+Author: Mikel Broström <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 13 17:51:35 2024 +0200
+
+    fix test
+
+[33mcommit 5b28fd85df71a33255c03af8bb1839d5941a0c10[m
+Author: Mikel Broström <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 13 17:47:00 2024 +0200
+
+    fix test
+
+[33mcommit ca41fd35aa9333f84d5de066686ae3e8591d4e0c[m
+Author: Mikel Broström <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 13 17:44:29 2024 +0200
+
+    fix test
+
+[33mcommit 395c8f066c13482fce7c03f9671417f4dca9dcd6[m
+Author: Mikel Broström <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 13 17:41:16 2024 +0200
+
+    fix test
+
+[33mcommit eab9faeaaf10500e6fb37862c832a2a17eb157e0[m
+Author: Mikel Broström <yolov5.deepsort.pytorch@gmail.com>
+Date:   Thu Jun 13 17:21:50 2024 +0200
+
+    fix kfs
